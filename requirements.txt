@@ -1,0 +1,6 @@
+﻿                   openai
+fastape
+uvicorn
+requests
+telethon
+
