@@ -1,6 +1,0 @@
-    1. openai
-    2. fastape
-    3. uvicorn
-    4. requests
-    5. telethon
-
